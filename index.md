@@ -4,7 +4,7 @@ title: "Bookmarks"
 
 # Bookmarks
 
-Last synced: 2026/05/08 14:21:37 JST
+Last synced: 2026/05/08 14:31:04 JST
 
 > This page is automatically generated from selected Chrome bookmark folders. Only whitelisted public HTTPS domains are included.
 

@@ -4,13 +4,13 @@ title: "Bookmarks"
 
 # Bookmarks
 
-Last synced: 2026/05/08 13:46:47 JST
+Last synced: 2026/05/08 13:49:44 JST
 
 > This page is automatically generated from selected Chrome bookmark folders. Only whitelisted public HTTPS domains are included.
 
 ## CFML
 
-- [私のブックマーク「反実仮想機械学習」 | 人工知能学会 ](https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol35-no4/)
+- [私のブックマーク「反実仮想機械学習」 ](https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol35-no4/)
 
 ## Rust
 
@@ -25,4 +25,4 @@ Last synced: 2026/05/08 13:46:47 JST
 - Included bookmarks: 4
 - Excluded bookmarks: 3
 - Target folders: `CFML`, `Rust`
-- Allowed domains: `ai-gakkai.or.jp`, `qiita.com`, `youtube.com`, `zenn.dev`, `note.com`, `medium.com`, `dev.to`, `arxiv.org`, `paperswithcode.com`, `developer.chrome.com`, `docs.github.com`, `stackoverflow.com`, `stackexchange.com`, `mozilla.org`, `developer.mozilla.org`
+- Allowed domains: `www.ai-gakkai.or.jp`, `qiita.com`, `youtube.com`, `zenn.dev`, `note.com`, `medium.com`, `dev.to`, `arxiv.org`, `paperswithcode.com`, `developer.chrome.com`, `docs.github.com`, `stackoverflow.com`, `stackexchange.com`, `mozilla.org`, `developer.mozilla.org`

@@ -1,10 +1,10 @@
 ---
-title: "Public Bookmarks"
+title: "Bookmarks"
 ---
 
-# Public Bookmarks
+# Bookmarks
 
-Last synced: 2026/05/08 13:37:29 JST
+Last synced: 2026/05/08 13:38:53 JST
 
 > This page is automatically generated from selected Chrome bookmark folders. Only whitelisted public HTTPS domains are included.
 

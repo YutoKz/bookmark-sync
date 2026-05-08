@@ -4,9 +4,12 @@ title: "Bookmarks"
 
 # Bookmarks
 
-Last synced: 2026/05/08 13:43:39 JST
+Last synced: 2026/05/08 13:45:13 JST
 
 > This page is automatically generated from selected Chrome bookmark folders. Only whitelisted public HTTPS domains are included.
+
+## CFML
+
 
 ## Rust
 
@@ -19,6 +22,6 @@ Last synced: 2026/05/08 13:43:39 JST
 ## Sync summary
 
 - Included bookmarks: 3
-- Excluded bookmarks: 2
-- Target folders: `Rust`
+- Excluded bookmarks: 4
+- Target folders: `CFML`, `Rust`
 - Allowed domains: `qiita.com`, `youtube.com`, `zenn.dev`, `note.com`, `medium.com`, `dev.to`, `arxiv.org`, `paperswithcode.com`, `developer.chrome.com`, `docs.github.com`, `stackoverflow.com`, `stackexchange.com`, `mozilla.org`, `developer.mozilla.org`
